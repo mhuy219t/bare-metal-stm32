@@ -1,0 +1,7 @@
+#include <stdint.h>
+
+#define SRAM_START_ADDRESS 0x20000000U
+#define SRAM_SIZE          (96 * 1024U) // 96 KB
+#define SRAM_END_ADDRESS   (SRAM_START_ADDRESS + SRAM_SIZE)
+#define STACK_START_ADDRESS (SRAM_END_ADDRESS)
+
