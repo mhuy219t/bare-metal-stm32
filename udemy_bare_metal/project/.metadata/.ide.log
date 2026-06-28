@@ -1,0 +1,25 @@
+2026-06-01 19:37:11,049 [INFO] Activator:176 - 
+
+
+2026-06-01 19:37:11,052 [INFO] Activator:177 - !SESSION log4j initialized
+2026-06-01 19:37:14,485 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2026-06-01 19:37:15,038 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Start the detection of the machine's architecture
+2026-06-01 19:37:15,052 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] use arm architecture
+2026-06-01 19:37:15,052 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Architecture: Apple Silicon (ARM64)
+2026-06-01 19:41:34,964 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2026-06-01 19:47:06,586 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] StartTraceHandler.execute(), success : Collect=true
+2026-06-01 19:47:10,663 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] StartTraceHandler.execute(), success : Collect=false
+2026-06-01 19:47:11,335 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] StartTraceHandler.execute(), success : Collect=true
+2026-06-01 19:47:14,458 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] StartTraceHandler.execute(), success : Collect=false
+2026-06-01 19:47:37,224 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] StartTraceHandler.execute(), success : Collect=true
+2026-06-01 19:47:43,774 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] StartTraceHandler.execute(), success : Collect=false
+2026-06-01 19:48:15,719 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] StartTraceHandler.execute(), success : Collect=true
+2026-06-01 23:14:08,896 [INFO] Activator:176 - 
+
+
+2026-06-01 23:14:08,897 [INFO] Activator:177 - !SESSION log4j initialized
+2026-06-01 23:14:11,801 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2026-06-01 23:14:12,041 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Start the detection of the machine's architecture
+2026-06-01 23:14:12,059 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] use arm architecture
+2026-06-01 23:14:12,060 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Architecture: Apple Silicon (ARM64)
+2026-06-01 23:15:13,754 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 

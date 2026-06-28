@@ -1,0 +1,10 @@
+23:48:13 **** Incremental Build of configuration Debug for project 004PerpClkEnable ****
+make -j7 all 
+arm-none-eabi-size  004PerpClkEnable.elf 
+   text	   data	    bss	    dec	    hex	filename
+    696	      0	   1568	   2264	    8d8	004PerpClkEnable.elf
+Finished building: default.size.stdout
+ 
+
+23:48:13 Build Finished. 0 errors, 0 warnings. (took 95ms)
+
